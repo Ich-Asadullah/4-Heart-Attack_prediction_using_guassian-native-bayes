@@ -48,4 +48,12 @@ pip install -r requirements.txt
 jupyter notebook Heart_Attack_Prediction.ipynb
 ```
 
+## Results
+The project includes detailed evaluation metrics and visualizations to understand the performance of the Gaussian Naive Bayes model. You can find accuracy scores, confusion matrices, and more in the Jupyter Notebook.
+
+## Contributing
+Contributions are welcome! If you have any improvements or new ideas, feel free to open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
 
