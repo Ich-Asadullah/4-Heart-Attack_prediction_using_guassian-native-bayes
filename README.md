@@ -40,4 +40,12 @@ cd heart-attack-prediction-using-gaussian-naive-bayes
 pip install -r requirements.txt
 ```
 
+## Usage
+
+- Place the heart.csv file in the project directory.
+- Run the Jupyter Notebook to see the entire workflow, including data preprocessing, model training, and evaluation.
+```bash
+jupyter notebook Heart_Attack_Prediction.ipynb
+```
+
 
