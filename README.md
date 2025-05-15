@@ -35,7 +35,7 @@ The dataset used in this project is `heart.csv`, which contains the following at
 To get started, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/heart-attack-prediction-using-gaussian-naive-bayes.git
+git clone https://github.com/Ich-Asadullah/4-Heart-Attack_prediction_using_guassian-native-bayes.git
 cd heart-attack-prediction-using-gaussian-naive-bayes
 pip install -r requirements.txt
 ```
